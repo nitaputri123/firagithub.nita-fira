@@ -6,5 +6,6 @@
   *(jaringan,Linux, troubleshooting)*
 3. Berani coba walaupun sering error
 4. Mulai bikin portofolio sederhana 
+  *Simpan hasil praktik  (foto, catatan, atau upload ke Github)*
 5. Kurangi bandingin diri, fokus ke perkembangan sendiri
 
