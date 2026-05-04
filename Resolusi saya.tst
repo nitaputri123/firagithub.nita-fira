@@ -8,4 +8,7 @@
 4. Mulai bikin portofolio sederhana 
   *Simpan hasil praktik  (foto, catatan, atau upload ke Github)*
 5. Kurangi bandingin diri, fokus ke perkembangan sendiri
+6. belajar menabung
+7.berhemat dan mengontrol nafsu
+8.belajar mengontrol emosi
 
